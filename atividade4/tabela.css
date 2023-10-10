@@ -1,0 +1,21 @@
+td{
+    vertical-align: top;
+}
+td{ text-align: center;
+}
+tr:hover {
+    background-color: #cad1df !important;
+    color: #848ea3;
+    font-weight: bold;
+
+    font-size: 1.5rem;
+    background-color: rgb(107, 101, 92);
+}
+
+tr:nth-child(even) {
+    background-color: #8b9dc3;
+}
+
+tr:nth-child(odd) {
+    background-color: #dfe3ee;
+}
