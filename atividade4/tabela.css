@@ -19,6 +19,10 @@ tr:nth-child(even) {
 tr:nth-child(odd) {
     background-color: #dfe3ee;
 }
+#terceira0{
+    background-color: rgb(84, 110, 182);
+}
+
 #terceira{
     background-color: rgb(139, 204, 204);
 }
