@@ -5,7 +5,7 @@ td{ text-align: center;
 }
 tr:hover {
     background-color: #cad1df !important;
-    color: #848ea3;
+    color: #f18a04;
     font-weight: bold;
 
     font-size: 1.5rem;
@@ -18,4 +18,12 @@ tr:nth-child(even) {
 
 tr:nth-child(odd) {
     background-color: #dfe3ee;
+}
+#terceira{
+    background-color: rgb(139, 204, 204);
+}
+
+#terceira2{
+    background-color: rgb(151, 224, 144);
+    font-style: italic;
 }
